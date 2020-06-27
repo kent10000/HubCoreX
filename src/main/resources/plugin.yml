@@ -1,0 +1,12 @@
+name: HubCoreX
+version: 1.0
+main: com.growlyx.moose
+api-version: 1.13
+author: GrowlyX
+description: HubCore For the PVPX Network
+commands:
+    fly:
+      aliases: [fl, fli]
+    mosoe:
+    heal:
+    number:
