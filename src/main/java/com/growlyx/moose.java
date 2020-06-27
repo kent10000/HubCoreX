@@ -9,8 +9,6 @@ public final class moose extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-        System.out.println("HubCoreX Verifying Licence...");
-        System.out.println("HubCoreX Has Been Verified");
         System.out.println("HubCoreX V1.0 Has Been Enabled.");
         System.out.println("For the PVPX Network, by GrowlyX");
 
